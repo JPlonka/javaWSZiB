@@ -1,0 +1,2 @@
+# javaWSZiB
+java exercises
